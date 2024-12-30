@@ -16,7 +16,7 @@
     "typescript": "^3.3.3",
     "tslint": "^5.12.1",
     "tslint-microsoft-contrib": "^6.0.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^6.2.0",
     "del": "^4.0.0"
   }
 }
